@@ -1,0 +1,11 @@
+commit 80eb606b64eea955b4f25f26f50aedacb1900cc6
+Author: Polina Karpenko <pkarpenko@cogniance.com>
+Date:   Wed Jul 20 16:25:34 2016 +0300
+
+    added details in test file
+
+commit a02f83a917b50823aff7a51430e7b68a9284eb40
+Author: Polina Karpenko <pkarpenko@cogniance.com>
+Date:   Wed Jul 20 16:21:38 2016 +0300
+
+    new files
